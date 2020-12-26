@@ -7,6 +7,3 @@ class Book
     @pages
   end
 end
-
-first_book = Book.new()
-puts first_book.pages

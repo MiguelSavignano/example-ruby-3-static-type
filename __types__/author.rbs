@@ -1,0 +1,6 @@
+# Classes
+class Author
+  @name: String
+
+  def initialize: (String name) -> String
+end

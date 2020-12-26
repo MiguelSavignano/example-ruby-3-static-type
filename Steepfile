@@ -1,4 +1,4 @@
 target :lib do
   signature "."
-  check "book.rb"
+  check "book_spec.rb"
 end
