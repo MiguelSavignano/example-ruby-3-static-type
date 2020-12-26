@@ -1,0 +1,7 @@
+# Classes
+class Book
+  @pages: Integer
+
+  def initialize: (Integer pages) -> Integer
+  def pages: -> Integer
+end

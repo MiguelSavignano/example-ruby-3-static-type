@@ -1,0 +1,5 @@
+## Run check
+
+```
+steep check
+```
