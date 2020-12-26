@@ -8,5 +8,5 @@ class Book
   end
 end
 
-first_book = Book.new(100)
+first_book = Book.new()
 puts first_book.pages

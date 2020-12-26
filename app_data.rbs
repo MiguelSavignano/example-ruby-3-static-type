@@ -1,0 +1,8 @@
+# Classes
+class AppData
+  def self.sum: ({first: Integer, second: Integer} data) -> Integer
+end
+
+class AppData2
+  def self.sum: (Hash[String, Integer] data) -> untyped
+end
