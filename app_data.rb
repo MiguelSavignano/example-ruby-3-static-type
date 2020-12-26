@@ -7,7 +7,7 @@ end
 
 class AppData2
   def self.sum(data)
-    data[:first] + data[:second]
+    data["first"] + data["second"]
   end
 end
 

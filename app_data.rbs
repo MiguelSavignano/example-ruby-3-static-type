@@ -4,5 +4,5 @@ class AppData
 end
 
 class AppData2
-  def self.sum: (Hash[String, Integer] data) -> untyped
+  def self.sum: (Hash[String, Integer] data) -> Integer
 end
