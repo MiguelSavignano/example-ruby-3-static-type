@@ -3,4 +3,5 @@ class Author
   @name: String
 
   def initialize: (String name) -> String
+  def with_name: { (String) -> nil } -> nil
 end
