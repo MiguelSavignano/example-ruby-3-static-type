@@ -1,5 +1,11 @@
 # Classes
-class Author
+class Person
+  @name: bot
+
+  def full_name: -> nil
+end
+
+class Author < Person
   @name: String
 
   def initialize: (String name) -> String

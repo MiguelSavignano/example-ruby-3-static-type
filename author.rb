@@ -1,4 +1,6 @@
-class Author
+require_relative './person'
+
+class Author < Person
   def initialize(name)
     @name = name
   end
